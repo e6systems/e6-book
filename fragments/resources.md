@@ -6,3 +6,4 @@
 5. NASM (Netwide Assembler)
 6. Visual Studio Code
 7. Qemu Emulator
+8. The PE Specifications
